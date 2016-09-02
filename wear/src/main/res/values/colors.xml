@@ -4,5 +4,6 @@
     <color name="background2">#000088</color>
     <color name="analog_hands">#000000</color>
     <color name="analog_hands_2">#cccccc</color>
-    <color name="analog_second_hand">#fdfd20</color>
+    <color name="analog_second_hand">#ff0000</color>
+    <color name="analog_second_hand_old">#fdfd20</color>
 </resources>
